@@ -1,11 +1,14 @@
 import QtQuick
 
 Rectangle {
+    width: 300
+    height: 50
     color: "pink"
     radius: 20
-    MyPasswdInput {
-        width: 200
-        height: 30
+
+    PasswordInput {
+        width: parent.width
+        height: parent.height
         anchors.horizontalCenter: parent.horizontalCenter
     }
 }

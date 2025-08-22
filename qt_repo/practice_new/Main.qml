@@ -5,17 +5,11 @@ Window {
     height: 480
     visible: true
     title: qsTr("qml test")
-    Test1 {
-        id: test1
-        width: parent.width
-        height: parent.height
+
+    Column {
+        Test1 {}
+        Test2 {}
     }
 
-    // Image {
-    //     id: idx
-    //     x:200
-    //     width: 200
-    //     height: 200
-    //     source: "qrc:/icon/visibility_on.png"
-    // }
+
 }
