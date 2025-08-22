@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/cpp/tools/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
+
+/*
+${workspaceFolder} - VS Code当前打开工作区文件夹的路径
+${file} - 当前打开文件的绝对路径
+${fileBasename} - 当前打开文件的名称
+${fileBasenameNoExtension} - 当前打开文件的名称，但是不加后缀名
+${fileDirname} - 文件所在的文件夹路径
+*/
