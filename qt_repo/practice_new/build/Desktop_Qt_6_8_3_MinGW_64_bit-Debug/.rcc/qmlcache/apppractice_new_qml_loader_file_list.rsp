@@ -1,0 +1,7 @@
+--resource
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qmake_practice_new.qrc
+--resource
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/apppractice_new_raw_qml_0.qrc
+/qt/qml/practice_new/Main.qml
+/qt/qml/practice_new/MyPasswdInput.qml
+/qt/qml/practice_new/Test1.qml

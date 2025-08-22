@@ -1,0 +1,7 @@
+module practice_new
+typeinfo apppractice_new.qmltypes
+prefer :/qt/qml/practice_new/
+Main 1.0 Main.qml
+MyPasswdInput 1.0 MyPasswdInput.qml
+Test1 1.0 Test1.qml
+

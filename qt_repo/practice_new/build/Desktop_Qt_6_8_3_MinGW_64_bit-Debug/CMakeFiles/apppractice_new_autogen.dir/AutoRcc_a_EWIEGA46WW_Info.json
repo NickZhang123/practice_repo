@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/apppractice_new_autogen",
+	"CMAKE_BINARY_DIR" : "E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/02_code/qt_repo/practice_new",
+	"CMAKE_SOURCE_DIR" : "E:/02_code/qt_repo/practice_new",
+	"INCLUDE_DIR" : "E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/apppractice_new_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/02_code/qt_repo/practice_new/icon/visibility_off.png",
+		"E:/02_code/qt_repo/practice_new/icon/visibility_on.png"
+	],
+	"LOCK_FILE" : "E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/apppractice_new_autogen.dir/AutoRcc_a_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "a" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_a.cpp",
+	"RCC_EXECUTABLE" : "D:/QT/QT6/6.8.3/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/apppractice_new_autogen.dir/AutoRcc_a_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/02_code/qt_repo/practice_new/a.qrc",
+	"VERBOSITY" : 0
+}

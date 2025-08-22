@@ -1,0 +1,5 @@
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/config.tests/static_link_order/CMakeFiles/objLib.dir
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/config.tests/static_link_order/CMakeFiles/staticLib.dir
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/config.tests/static_link_order/CMakeFiles/edit_cache.dir
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/practice_new/">
+    <file alias="Main.qml">E:/02_code/qt_repo/practice_new/Main.qml</file>
+    <file alias="MyPasswdInput.qml">E:/02_code/qt_repo/practice_new/MyPasswdInput.qml</file>
+    <file alias="Test1.qml">E:/02_code/qt_repo/practice_new/Test1.qml</file>
+    <file alias="a.qrc">E:/02_code/qt_repo/practice_new/a.qrc</file>
+  </qresource>
+</RCC>
+
