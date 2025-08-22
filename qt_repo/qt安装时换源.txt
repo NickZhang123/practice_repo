@@ -1,0 +1,6 @@
+./qt-online-installer-windows-x64-online.exe --mirror https://mirrors.tuna.tsinghua.edu.cn/qt
+
+./qt-online-installer-windows-x64-4.10.0.exe --mirror https://mirrors.tuna.tsinghua.edu.cn/qt
+
+
+./qt-online-installer-windows-x64-4.10.0.exe --mirror https://mirrors.ustc.edu.cn/qtproject/
