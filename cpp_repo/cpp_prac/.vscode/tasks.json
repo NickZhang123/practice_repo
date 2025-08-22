@@ -1,0 +1,181 @@
+{
+    "tasks": [
+          {
+            "label": "02_cpp编译_多文件",
+            "type": "cppbuild", 
+            //"command": "/usr/bin/g++",
+            "command": "/usr/local/gcc10/bin/g++",
+            "args": [
+                "-g", 
+                "${workspaceFolder}/*.cpp",        // 编译所有cpp
+                "-std=c++17",
+                "-fno-elide-constructors",
+                //"-I", // 指定include
+                //"${workspaceFolder}/cpp/tools/",    
+                "-lpthread",
+                "-o", // 输出对象
+                //"${fileDirname}/out/${fileBasenameNoExtension}",
+                "${workspaceFolder}/out/finalobj",
+            ],
+            "options": {
+              "cwd": "${fileDirname}",
+              // "exclude" : ""排除指定文件夹
+            },
+
+            "problemMatcher": ["$gcc"],
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+              
+            "detail": "编译"
+          },
+
+          {
+            "label": "01_cpp编译_单文件",        // 编译
+            "type": "cppbuild",                 // 默认是shell
+  
+            //"command": "/usr/bin/g++",          // linux g++地址  
+            "command" : "/usr/local/gcc10/bin/g++ ",
+            "args": [
+                "-g", 
+                "${file}", 
+                "-std=c++17",
+                //"-std=c++11",
+                "-o", 
+                "${workspaceFolder}/out/${fileBasenameNoExtension}"],  // 参数
+              
+            "options": {
+              "cwd": "${fileDirname}"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+              
+            "detail": "编译"
+          },
+
+          {
+            "label": "03_run",              
+            "type": "shell",                
+  
+            "command": "./out/finalobj",      
+            "args": [ ],  
+
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+              
+            "detail": "运行",
+            "dependsOn": "02_cpp编译_多文件"
+          },
+
+          {
+            "label": "04_编译testdir",
+            "type": "cppbuild", 
+            //"command": "/usr/bin/g++",
+            "command": "/usr/local/gcc10/bin/g++",
+            "args": [
+                "-g", 
+                "${workspaceFolder}/testdir/*.cpp",        // 编译所有cpp
+                "-std=c++17",
+                //"-I", // 指定include
+                //"${workspaceFolder}/cpp/tools/",    
+                "-o", // 输出对象
+                //"${fileDirname}/out/${fileBasenameNoExtension}",
+                "${workspaceFolder}/testdir/out/finalobj",
+            ],
+            "options": {
+              "cwd": "${fileDirname}",
+              // "exclude" : ""排除指定文件夹
+            },
+            
+            "problemMatcher": ["$gcc"],
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+              
+            "detail": "编译"
+          },
+          {
+            "label": "CMake-1:Config",
+            "type": "shell", 
+            "command": "cmake",
+            "args": [
+                "../",                                // 当前目录作为源目录 -- 当前在.vscode中
+                "-B", "${workspaceFolder}/build",   // 设置构建目录
+                "-S", "${workspaceFolder}",         // 设置源代码位置
+                "-DCMAKE_BUILD_TYPE=Release"        // 设置构建类型
+            ],
+            
+            "options": {
+              "cwd": "${fileDirname}",
+              // "exclude" : ""排除指定文件夹
+            },
+
+            "problemMatcher": [],
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+              
+            "detail": "cmake配置"
+          },
+          {
+            "label": "CMake-2:build",
+            "type": "shell", 
+            "command": "cmake",
+            "args": [
+                "--build", "${workspaceFolder}/build",  // 从构建目录构建
+                "--config", "Release",                 // 使用 Release 配置
+                "-j4"  // 指定4个线程来构建
+            ],
+            
+            "options": {
+              "cwd": "${fileDirname}",
+              // "exclude" : ""排除指定文件夹
+            },
+
+            "problemMatcher": [],
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+              
+            "detail": "cmake编译",
+            "dependsOn":"CMake-1:Config"
+          },
+          {
+            "label": "CMake-3:Clean",        // 任务名称
+            "type": "shell",               // 使用 shell 命令
+            "command": "rm",               // 使用 rm 命令删除构建目录
+            "args": [
+                "-rf", "${workspaceFolder}/build/*"  // 删除整个构建目录
+            ],
+            "group": {
+                "kind": "build",            // 任务类型为构建任务
+                "isDefault": false          // 该任务不是默认任务
+            },
+            "problemMatcher": [],           // 无需解析问题匹配器
+            "detail": "清理build文件"         // 任务说明
+        },
+        {
+            "label": "CMake-4:Run",   
+            "type": "shell",                
+  
+            "command": "./build/cpp_prac",      
+            "args": [ ],  
+
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            },
+            "dependsOn":["CMake-3:Clean", "CMake-2:build"], // 依赖多个任务
+          },
+    ],
+    "version": "2.0.0"
+}

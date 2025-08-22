@@ -1,0 +1,2906 @@
+swapper     0 [000] 3607276.783927:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783948:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783955:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783961:          3 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783966:         17 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783973:        105 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783978:        666 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783985:       4737 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [000] 3607276.783991:      25590 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa3ba03f7 rest_init+0x77 ([kernel.kallsyms])
+	ffffffffa418c22b start_kernel+0x44b ([kernel.kallsyms])
+	ffffffffa418b748 x86_64_start_reservations+0x24 ([kernel.kallsyms])
+	ffffffffa418b8a2 x86_64_start_kernel+0x154 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784015:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784024:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784030:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784036:          5 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784042:         29 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784047:        183 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784054:       1133 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784060:       8324 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784101:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+perf  1928 [000] 3607276.784103:     147499 cycles: 
+	ffffffffa351dba2 generic_exec_single+0x102 ([kernel.kallsyms])
+	ffffffffa351dcbf smp_call_function_single+0x5f ([kernel.kallsyms])
+	ffffffffa35b1493 cpu_function_call+0x43 ([kernel.kallsyms])
+	ffffffffa35b6089 event_function_call+0x109 ([kernel.kallsyms])
+	ffffffffa35b6191 _perf_event_enable+0x51 ([kernel.kallsyms])
+	ffffffffa35b12da perf_event_for_each_child+0x3a ([kernel.kallsyms])
+	ffffffffa35bab50 perf_ioctl+0x1f0 ([kernel.kallsyms])
+	ffffffffa36719d8 do_vfs_ioctl+0x3a8 ([kernel.kallsyms])
+	ffffffffa3671c71 sys_ioctl+0x81 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f66dd03c4a7 __GI___ioctl+0x7 (/usr/lib64/libc-2.17.so)
+	          4b4ad3 perf_evlist__enable+0x53 (/usr/bin/perf)
+	          44083a cmd_record+0x147a (/usr/bin/perf)
+	          4a26af [unknown] (/usr/bin/perf)
+	          42af75 main+0x605 (/usr/bin/perf)
+	    7f66dcf69555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [002] 3607276.784110:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784116:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784122:          5 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784128:         29 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784133:        182 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784140:       1120 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [002] 3607276.784146:       8304 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784170:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784180:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784186:          1 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784192:          5 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784199:         28 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784203:        171 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784210:       1016 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784216:       7478 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404c77 x86_pmu_enable_all+0xb7 ([kernel.kallsyms])
+	ffffffffa340597a x86_pmu_enable+0x28a ([kernel.kallsyms])
+	ffffffffa35b711d perf_pmu_enable+0x2d ([kernel.kallsyms])
+	ffffffffa35b7d06 ctx_resched+0x66 ([kernel.kallsyms])
+	ffffffffa35b7e8b __perf_event_enable+0x13b ([kernel.kallsyms])
+	ffffffffa35b05f8 event_function+0xa8 ([kernel.kallsyms])
+	ffffffffa35b2282 remote_function+0x52 ([kernel.kallsyms])
+	ffffffffa351de83 flush_smp_call_function_queue+0x63 ([kernel.kallsyms])
+	ffffffffa351e593 generic_smp_call_function_single_interrupt+0x13 ([kernel.kallsyms])
+	ffffffffa345c81d smp_call_function_single_interrupt+0x2d ([kernel.kallsyms])
+	ffffffffa3bc7772 call_function_single_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [003] 3607276.784267:      41780 cycles: 
+	ffffffffa34f73f5 pick_next_task_stop+0x5 ([kernel.kallsyms])
+	ffffffffa3bb8bf9 schedule_preempt_disabled+0x29 ([kernel.kallsyms])
+	ffffffffa35082da cpu_startup_entry+0x18a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+swapper     0 [001] 3607276.784315:      45521 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466dc0 native_apic_msr_write+0x30 ([kernel.kallsyms])
+	ffffffffa345f403 lapic_next_event+0x23 ([kernel.kallsyms])
+	ffffffffa3515171 clockevents_program_event+0x71 ([kernel.kallsyms])
+	ffffffffa3516f33 tick_program_event+0x23 ([kernel.kallsyms])
+	ffffffffa34cf60b __remove_hrtimer+0x9b ([kernel.kallsyms])
+	ffffffffa34cfd50 hrtimer_try_to_cancel+0xd0 ([kernel.kallsyms])
+	ffffffffa34cfdca hrtimer_cancel+0x1a ([kernel.kallsyms])
+	ffffffffa3517427 tick_nohz_restart+0x17 ([kernel.kallsyms])
+	ffffffffa3518301 tick_nohz_idle_exit+0xa1 ([kernel.kallsyms])
+	ffffffffa35082c5 cpu_startup_entry+0x175 ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+perf  1928 [000] 3607276.784340:     906223 cycles: 
+	ffffffffa372f3a3 avtab_search_node+0x53 ([kernel.kallsyms])
+	ffffffffa3736e91 context_struct_compute_av+0x1d1 ([kernel.kallsyms])
+	ffffffffa3738034 security_compute_av+0x104 ([kernel.kallsyms])
+	ffffffffa3bb0b44 avc_compute_av+0x41 ([kernel.kallsyms])
+	ffffffffa371eedc avc_has_perm_flags+0xdc ([kernel.kallsyms])
+	ffffffffa37225da inode_has_perm.isra.35.constprop.72+0x2a ([kernel.kallsyms])
+	ffffffffa37226b9 file_has_perm+0xc9 ([kernel.kallsyms])
+	ffffffffa3726e4d selinux_file_permission+0xcd ([kernel.kallsyms])
+	ffffffffa371b2a7 security_file_permission+0x27 ([kernel.kallsyms])
+	ffffffffa365bad2 rw_verify_area+0x52 ([kernel.kallsyms])
+	ffffffffa365bd3a vfs_write+0x7a ([kernel.kallsyms])
+	ffffffffa365cb35 sys_write+0x55 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f66dee0e6e0 __write_nocancel+0x7 (/usr/lib64/libpthread-2.17.so)
+	          4406b3 cmd_record+0x12f3 (/usr/bin/perf)
+	          4a26af [unknown] (/usr/bin/perf)
+	          42af75 main+0x605 (/usr/bin/perf)
+	    7f66dcf69555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+perf  1928 [000] 3607276.784609:    1046341 cycles: 
+	ffffffffa372f3a3 avtab_search_node+0x53 ([kernel.kallsyms])
+	ffffffffa3736e91 context_struct_compute_av+0x1d1 ([kernel.kallsyms])
+	ffffffffa3738034 security_compute_av+0x104 ([kernel.kallsyms])
+	ffffffffa3bb0b44 avc_compute_av+0x41 ([kernel.kallsyms])
+	ffffffffa371eedc avc_has_perm_flags+0xdc ([kernel.kallsyms])
+	ffffffffa37225da inode_has_perm.isra.35.constprop.72+0x2a ([kernel.kallsyms])
+	ffffffffa37226b9 file_has_perm+0xc9 ([kernel.kallsyms])
+	ffffffffa3726e4d selinux_file_permission+0xcd ([kernel.kallsyms])
+	ffffffffa371b2a7 security_file_permission+0x27 ([kernel.kallsyms])
+	ffffffffa365bad2 rw_verify_area+0x52 ([kernel.kallsyms])
+	ffffffffa365bd3a vfs_write+0x7a ([kernel.kallsyms])
+	ffffffffa365cb35 sys_write+0x55 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f66dee0e6e0 __write_nocancel+0x7 (/usr/lib64/libpthread-2.17.so)
+	          4406b3 cmd_record+0x12f3 (/usr/bin/perf)
+	          4a26af [unknown] (/usr/bin/perf)
+	          42af75 main+0x605 (/usr/bin/perf)
+	    7f66dcf69555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+perf  1929 [003] 3607276.784699:     263584 cycles: 
+	ffffffffa35cbccd filemap_fault+0x19d ([kernel.kallsyms])
+	ffffffffc0421ffe __xfs_filemap_fault+0x7e ([kernel.kallsyms])
+	ffffffffc042220c xfs_filemap_fault+0x2c ([kernel.kallsyms])
+	ffffffffa35fa21a __do_fault.isra.61+0x8a ([kernel.kallsyms])
+	ffffffffa35fa7cc do_read_fault.isra.63+0x4c ([kernel.kallsyms])
+	ffffffffa36021d3 handle_mm_fault+0xa33 ([kernel.kallsyms])
+	ffffffffa3bbf7d3 __do_page_fault+0x213 ([kernel.kallsyms])
+	ffffffffa3bbfb05 do_page_fault+0x35 ([kernel.kallsyms])
+	ffffffffa3bbb7b8 page_fault+0x28 ([kernel.kallsyms])
+	    7f66df0257c1 do_lookup_x+0x111 (/usr/lib64/ld-2.17.so)
+
+perf  1929 [000] 3607276.784907:    1053251 cycles: 
+	ffffffffa35f542a anon_vma_interval_tree_remove+0x24a ([kernel.kallsyms])
+	ffffffffa360efcd unlink_anon_vmas+0xad ([kernel.kallsyms])
+	ffffffffa35fc628 free_pgtables+0xa8 ([kernel.kallsyms])
+	ffffffffa36095a6 exit_mmap+0xc6 ([kernel.kallsyms])
+	ffffffffa349c07f mmput+0x6f ([kernel.kallsyms])
+	ffffffffa3663c20 flush_old_exec+0x3d0 ([kernel.kallsyms])
+	ffffffffa36c4a40 load_elf_binary+0x340 ([kernel.kallsyms])
+	ffffffffa366337a search_binary_handler+0x9a ([kernel.kallsyms])
+	ffffffffa36648b6 do_execve_common.isra.23+0x626 ([kernel.kallsyms])
+	ffffffffa3664de9 sys_execve+0x29 ([kernel.kallsyms])
+	ffffffffa3bc5938 stub_execve+0x48 ([kernel.kallsyms])
+	    7f66dd00cdd7 __execve+0x7 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [002] 3607276.784993:      46752 cycles: 
+	ffffffffa3470958 native_read_msr_safe+0x8 ([kernel.kallsyms])
+	ffffffffa3404b38 x86_pmu_disable_all+0x88 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.785180:    1043992 cycles: 
+	ffffffffa372f3a3 avtab_search_node+0x53 ([kernel.kallsyms])
+	ffffffffa3736e91 context_struct_compute_av+0x1d1 ([kernel.kallsyms])
+	ffffffffa3738034 security_compute_av+0x104 ([kernel.kallsyms])
+	ffffffffa3bb0b44 avc_compute_av+0x41 ([kernel.kallsyms])
+	ffffffffa371eedc avc_has_perm_flags+0xdc ([kernel.kallsyms])
+	ffffffffa37225da inode_has_perm.isra.35.constprop.72+0x2a ([kernel.kallsyms])
+	ffffffffa3727903 selinux_inode_follow_link+0x63 ([kernel.kallsyms])
+	ffffffffa371af06 security_inode_follow_link+0x26 ([kernel.kallsyms])
+	ffffffffa366ddc5 path_openat+0x325 ([kernel.kallsyms])
+	ffffffffa366f52d do_filp_open+0x4d ([kernel.kallsyms])
+	ffffffffa365abf4 do_sys_open+0x124 ([kernel.kallsyms])
+	ffffffffa365ad0e sys_open+0x1e ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7fbd374af677 open64+0x7 (/usr/lib64/ld-2.17.so)
+	    7fbd3749e966 _dl_map_object+0x486 (/usr/lib64/ld-2.17.so)
+	    7fbd374b2f5a [unknown] (/usr/lib64/ld-2.17.so)
+
+finalobj  1929 [000] 3607276.785441:    1011892 cycles: 
+	    7fbd374afdc2 strcmp+0x2 (/usr/lib64/ld-2.17.so)
+	           a29e0 [unknown] ([unknown])
+
+finalobj  1929 [000] 3607276.785697:    1001283 cycles: 
+	    7fbd374afdc2 strcmp+0x2 (/usr/lib64/ld-2.17.so)
+	          163130 [unknown] ([unknown])
+
+swapper     0 [001] 3607276.785889:     277276 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466ff2 __x2apic_send_IPI_mask+0xb2 ([kernel.kallsyms])
+	ffffffffa34670b3 x2apic_send_IPI_mask+0x13 ([kernel.kallsyms])
+	ffffffffa345c2c2 native_smp_send_reschedule+0x52 ([kernel.kallsyms])
+	ffffffffa34e100e try_to_wake_up+0x30e ([kernel.kallsyms])
+	ffffffffa34e1182 default_wake_function+0x12 ([kernel.kallsyms])
+	ffffffffa36725c3 pollwake+0x73 ([kernel.kallsyms])
+	ffffffffa34d8e02 __wake_up_common+0x82 ([kernel.kallsyms])
+	ffffffffa34d8f23 __wake_up_common_lock+0x83 ([kernel.kallsyms])
+	ffffffffa34d8f9d __wake_up_sync_key+0x1d ([kernel.kallsyms])
+	ffffffffa3a6289d sock_def_readable+0x3d ([kernel.kallsyms])
+	ffffffffa3ae7fa7 tcp_rcv_established+0x447 ([kernel.kallsyms])
+	ffffffffa3af30f2 tcp_v4_do_rcv+0x112 ([kernel.kallsyms])
+	ffffffffa3af498c tcp_v4_rcv+0x7dc ([kernel.kallsyms])
+	ffffffffa3acc34d ip_local_deliver_finish+0xbd ([kernel.kallsyms])
+	ffffffffa3acc660 ip_local_deliver+0x60 ([kernel.kallsyms])
+	ffffffffa3acbfa0 ip_rcv_finish+0x90 ([kernel.kallsyms])
+	ffffffffa3acc9a0 ip_rcv+0x2c0 ([kernel.kallsyms])
+	ffffffffa3a7f669 __netif_receive_skb_core+0x739 ([kernel.kallsyms])
+	ffffffffa3a7f968 __netif_receive_skb+0x18 ([kernel.kallsyms])
+	ffffffffa3a7fa00 netif_receive_skb_internal+0x40 ([kernel.kallsyms])
+	ffffffffa3a7fa9c netif_receive_skb+0x1c ([kernel.kallsyms])
+	ffffffffc01a36b1 vmxnet3_rq_rx_complete+0x8b1 ([kernel.kallsyms])
+	ffffffffc01a4176 vmxnet3_poll_rx_only+0x36 ([kernel.kallsyms])
+	ffffffffa3a80037 net_rx_action+0x277 ([kernel.kallsyms])
+	ffffffffa34a9595 __do_softirq+0xf5 ([kernel.kallsyms])
+	ffffffffa3bc8aac call_softirq+0x1c ([kernel.kallsyms])
+	ffffffffa3430825 do_softirq+0x65 ([kernel.kallsyms])
+	ffffffffa34a9945 irq_exit+0x115 ([kernel.kallsyms])
+	ffffffffa3bc9ef6 __irqentry_text_start+0x56 ([kernel.kallsyms])
+	ffffffffa3bbb3b2 ret_from_intr+0x0 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+sshd 21336 [003] 3607276.785919:     391340 cycles: 
+	ffffffffa36736ca sys_select+0xca ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7fa8c6837b23 __select+0x13 (/usr/lib64/libc-2.17.so)
+	    562348351080 [unknown] ([unknown])
+
+finalobj  1929 [000] 3607276.785952:     996069 cycles: 
+	    7fbd374a1b78 _dl_relocate_object+0x428 (/usr/lib64/ld-2.17.so)
+	    7fbd3749a99a dl_main+0x2a9a (/usr/lib64/ld-2.17.so)
+	    7fbd374ae00e _dl_sysdep_start+0x1be (/usr/lib64/ld-2.17.so)
+
+tokio-runtime-w 21384 [003] 3607276.786017:     370768 cycles: 
+	    7f3d3c58c8c1 [unknown] (/home/nick/.vscode-server/code-f1a4fb101478ce6ec82fe9627c43efbf9e98c813)
+	    7f3d3c4f7666 [unknown] (/home/nick/.vscode-server/code-f1a4fb101478ce6ec82fe9627c43efbf9e98c813)
+
+node 21400 [003] 3607276.786102:     328855 cycles: 
+	         106a808 v8::internal::(anonymous namespace)::Invoke+0xab8 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21400 [003] 3607276.786203:     392161 cycles: 
+	         10d7171 v8::internal::FactoryBase<v8::internal::Factory>::SmiToString+0x1 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         12d18be v8::internal::(anonymous namespace)::ElementsAccessorBase<v8::internal::(anonymous namespace)::FastPackedSmiElementsAccessor, v8::internal::(anonymous namespace)::ElementsKindTraits<(v8::internal::ElementsKind)0> >::DirectCollectElementIndicesImpl+0xbe (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         12d1f90 v8::internal::(anonymous namespace)::ElementsAccessorBase<v8::internal::(anonymous namespace)::FastPackedObjectElementsAccessor, v8::internal::(anonymous namespace)::ElementsKindTraits<(v8::internal::ElementsKind)2> >::PrependElementIndices+0xb0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         137f03d v8::internal::(anonymous namespace)::GetOwnKeysWithElements<true>+0xcd (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1385e45 v8::internal::FastKeyAccumulator::GetKeys+0xb5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         14f8bd7 v8::internal::Runtime_ForInEnumerate+0xa7 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1913ef6 Builtins_CEntry_Return1_ArgvOnStack_NoBuiltinExit+0x36 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c4871f992 [unknown] (/tmp/perf-21400.map)
+	    7f1c48525aa2 [unknown] (/tmp/perf-21400.map)
+	    7f1c48590b17 [unknown] (/tmp/perf-21400.map)
+	    7f1c489ba0e4 [unknown] (/tmp/perf-21400.map)
+	    7f1c485501e2 [unknown] (/tmp/perf-21400.map)
+	    7f1c487cce17 [unknown] (/tmp/perf-21400.map)
+	    7f1c4864cdaf [unknown] (/tmp/perf-21400.map)
+	    7f1c489037d6 [unknown] (/tmp/perf-21400.map)
+	    7f1c487186be [unknown] (/tmp/perf-21400.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.786219:     993133 cycles: 
+	ffffffffa3601b54 handle_mm_fault+0x3b4 ([kernel.kallsyms])
+	ffffffffa3bbf7d3 __do_page_fault+0x213 ([kernel.kallsyms])
+	ffffffffa3bbfb05 do_page_fault+0x35 ([kernel.kallsyms])
+	ffffffffa3bbb7b8 page_fault+0x28 ([kernel.kallsyms])
+	    7fbd36f9e090 std::__cxx11::messages<char>::messages+0x0 (/usr/local/gcc10/lib64/libstdc++.so.6.0.28)
+	  315a303d8d4800 [unknown] ([unknown])
+
+node 21400 [003] 3607276.786329:     486039 cycles: 
+	         107d406 v8::internal::JSReceiver::GetProperty+0x16 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13ad3d4 v8::internal::Object::GetMethod+0x34 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13852c1 v8::internal::KeyAccumulator::CollectOwnJSProxyKeys+0xb1 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1383dd1 v8::internal::KeyAccumulator::CollectKeys+0x231 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13844e6 v8::internal::KeyAccumulator::GetKeys+0xc6 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1504579 v8::internal::Runtime_ObjectKeys+0x59 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1913ef6 Builtins_CEntry_Return1_ArgvOnStack_NoBuiltinExit+0x36 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18f438b Builtins_ObjectKeys+0x18b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c485e9a85 [unknown] (/tmp/perf-21400.map)
+	    7f1c4865e08c [unknown] (/tmp/perf-21400.map)
+	    7f1c48634078 [unknown] (/tmp/perf-21400.map)
+	    7f1c4869b641 [unknown] (/tmp/perf-21400.map)
+	    7f1c486e1bd1 [unknown] (/tmp/perf-21400.map)
+	    7f1c4869b641 [unknown] (/tmp/perf-21400.map)
+	    7f1c485f7660 [unknown] (/tmp/perf-21400.map)
+	    7f1c486f7412 [unknown] (/tmp/perf-21400.map)
+	    7f1c483baed4 [unknown] (/tmp/perf-21400.map)
+	    7f1c4871ae68 [unknown] (/tmp/perf-21400.map)
+	    7f1c489712b0 [unknown] (/tmp/perf-21400.map)
+	    7f1c4871fdf4 [unknown] (/tmp/perf-21400.map)
+	    7f1c48525aa2 [unknown] (/tmp/perf-21400.map)
+	    7f1c48590b17 [unknown] (/tmp/perf-21400.map)
+	    7f1c489ba0e4 [unknown] (/tmp/perf-21400.map)
+	    7f1c485501e2 [unknown] (/tmp/perf-21400.map)
+	    7f1c487cce17 [unknown] (/tmp/perf-21400.map)
+	    7f1c4864cdaf [unknown] (/tmp/perf-21400.map)
+	    7f1c489037d6 [unknown] (/tmp/perf-21400.map)
+	    7f1c487186be [unknown] (/tmp/perf-21400.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.786474:     987677 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21400 [003] 3607276.786478:     576720 cycles: 
+	         18dc8a1 Builtins_KeyedHasIC_Megamorphic+0x61 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c485e9bc3 [unknown] (/tmp/perf-21400.map)
+	    7f1c4865e08c [unknown] (/tmp/perf-21400.map)
+	    7f1c48634078 [unknown] (/tmp/perf-21400.map)
+	    7f1c4869b641 [unknown] (/tmp/perf-21400.map)
+	    7f1c486e1bd1 [unknown] (/tmp/perf-21400.map)
+	    7f1c4869b641 [unknown] (/tmp/perf-21400.map)
+	    7f1c485f7660 [unknown] (/tmp/perf-21400.map)
+	    7f1c486f7412 [unknown] (/tmp/perf-21400.map)
+	    7f1c483baed4 [unknown] (/tmp/perf-21400.map)
+	    7f1c4871ae68 [unknown] (/tmp/perf-21400.map)
+	    7f1c489712b0 [unknown] (/tmp/perf-21400.map)
+	    7f1c4871fdf4 [unknown] (/tmp/perf-21400.map)
+	    7f1c48525aa2 [unknown] (/tmp/perf-21400.map)
+	    7f1c48590b17 [unknown] (/tmp/perf-21400.map)
+	    7f1c489ba0e4 [unknown] (/tmp/perf-21400.map)
+	    7f1c485501e2 [unknown] (/tmp/perf-21400.map)
+	    7f1c487cce17 [unknown] (/tmp/perf-21400.map)
+	    7f1c4864cdaf [unknown] (/tmp/perf-21400.map)
+	    7f1c489037d6 [unknown] (/tmp/perf-21400.map)
+	    7f1c487186be [unknown] (/tmp/perf-21400.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.786723:     980144 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.786974:     977819 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.787232:     978036 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.787483:     975542 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21400 [003] 3607276.787688:     647409 cycles: 
+	ffffffffa34e6a03 select_task_rq_fair+0xd3 ([kernel.kallsyms])
+	ffffffffa34e0dd7 try_to_wake_up+0xd7 ([kernel.kallsyms])
+	ffffffffa34e1182 default_wake_function+0x12 ([kernel.kallsyms])
+	ffffffffa34d8e02 __wake_up_common+0x82 ([kernel.kallsyms])
+	ffffffffa34d8fe6 __wake_up_locked+0x16 ([kernel.kallsyms])
+	ffffffffa36ad19c ep_poll_callback+0xac ([kernel.kallsyms])
+	ffffffffa34d8e02 __wake_up_common+0x82 ([kernel.kallsyms])
+	ffffffffa34d8f23 __wake_up_common_lock+0x83 ([kernel.kallsyms])
+	ffffffffa34d8f9d __wake_up_sync_key+0x1d ([kernel.kallsyms])
+	ffffffffa3a6289d sock_def_readable+0x3d ([kernel.kallsyms])
+	ffffffffa3b42ba9 unix_stream_sendmsg+0x219 ([kernel.kallsyms])
+	ffffffffa3a5d675 sock_aio_write+0x165 ([kernel.kallsyms])
+	ffffffffa365b2b3 do_sync_write+0x93 ([kernel.kallsyms])
+	ffffffffa365be85 vfs_write+0x1c5 ([kernel.kallsyms])
+	ffffffffa365cb35 sys_write+0x55 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f1c702756fd [unknown] (/usr/lib64/libpthread-2.17.so)
+	          df1556 non-virtual thunk to node::LibuvStreamWrap::DoTryWrite(uv_buf_t**, unsigned long*)+0x26 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          dea670 node::StreamBase::Write+0x240 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb6f3 node::StreamBase::WriteBuffer+0x223 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          dee96d node::StreamBase::JSMethod<&node::StreamBase::WriteBuffer>+0xbd (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1887546 Builtins_CallApiCallback+0x86 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c486f576f [unknown] (/tmp/perf-21400.map)
+	    7f1c48907a6e [unknown] (/tmp/perf-21400.map)
+	    7f1c4876aa34 [unknown] (/tmp/perf-21400.map)
+	    7f1c48855e18 [unknown] (/tmp/perf-21400.map)
+	    7f1c484738ce [unknown] (/tmp/perf-21400.map)
+	    7f1c4848399a [unknown] (/tmp/perf-21400.map)
+	    7f1c484d6bcf [unknown] (/tmp/perf-21400.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c3ba63 node::Environment::RunTimers+0x1e3 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         185cac5 uv__run_timers+0x35 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186198a uv_run+0x30a (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.787732:     971765 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.787983:     971335 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.788235:     971722 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.788485:     971668 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.788734:     970555 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.788984:     970392 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466b83 native_apic_msr_eoi_write+0x13 ([kernel.kallsyms])
+	ffffffffa3bca04e smp_apic_timer_interrupt+0x3e ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.789237:     970935 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.789486:     970916 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.789738:     969576 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.789991:     969854 cycles: 
+	ffffffffa34a9830 irq_exit+0x0 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [002] 3607276.790002:     281125 cycles: 
+	ffffffffa36339c9 kmem_cache_free+0x59 ([kernel.kallsyms])
+	ffffffffa365decf file_free_rcu+0x2f ([kernel.kallsyms])
+	ffffffffa3563228 rcu_process_callbacks+0x1d8 ([kernel.kallsyms])
+	ffffffffa34a9595 __do_softirq+0xf5 ([kernel.kallsyms])
+	ffffffffa3bc8aac call_softirq+0x1c ([kernel.kallsyms])
+	ffffffffa3430825 do_softirq+0x65 ([kernel.kallsyms])
+	ffffffffa34a9945 irq_exit+0x115 ([kernel.kallsyms])
+	ffffffffa3bca058 smp_apic_timer_interrupt+0x48 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.790240:     967996 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.790489:     966523 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.790737:     966986 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.790986:     967542 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404b83 x86_pmu_disable_all+0xd3 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [001] 3607276.791010:     276545 cycles: 
+	ffffffffa3bb9e1b native_safe_halt+0xb ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.791240:     968436 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.791489:     969748 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.791738:     968087 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.791990:     968224 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466dc0 native_apic_msr_write+0x30 ([kernel.kallsyms])
+	ffffffffa345f403 lapic_next_event+0x23 ([kernel.kallsyms])
+	ffffffffa3515171 clockevents_program_event+0x71 ([kernel.kallsyms])
+	ffffffffa3516f33 tick_program_event+0x23 ([kernel.kallsyms])
+	ffffffffa34d00f2 hrtimer_interrupt+0xf2 ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.792239:     967793 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.792488:     966523 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.792736:     967157 cycles: 
+	          410553 test_high_perfermance+0x32 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.792985:     967610 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404b83 x86_pmu_disable_all+0xd3 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.793237:     968475 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.793487:     969854 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.793738:     969165 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.793992:     969243 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466ff2 __x2apic_send_IPI_mask+0xb2 ([kernel.kallsyms])
+	ffffffffa34670b3 x2apic_send_IPI_mask+0x13 ([kernel.kallsyms])
+	ffffffffa345c2c2 native_smp_send_reschedule+0x52 ([kernel.kallsyms])
+	ffffffffa34f0aa9 trigger_load_balance+0x159 ([kernel.kallsyms])
+	ffffffffa34df0e1 scheduler_tick+0x111 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.794029:     239788 cycles: 
+	    7f2635e4bda7 __errno_location+0x7 (/usr/lib64/libpthread-2.17.so)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.794081:     214627 cycles: 
+	         10cda50 v8::internal::FactoryBase<v8::internal::Factory>::AllocateRaw+0x0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         10d0196 v8::internal::FactoryBase<v8::internal::Factory>::NewRawOneByteString+0x76 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         10e4373 v8::internal::Factory::NewStringFromUtf8+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f23513 v8::String::NewFromUtf8+0x63 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df6c49 node::(anonymous namespace)::MakeString+0x99 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df6d4d node::StringDecoder::DecodeData+0xbd (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df732e node::(anonymous namespace)::DecodeData+0xee (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1887546 Builtins_CallApiCallback+0x86 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f260f1276f2 [unknown] (/tmp/perf-18326.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.794139:     214627 cycles: 
+	         1221ba0 v8::internal::FieldIndex::ForPropertyIndex+0x40 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1335016 v8::internal::JSObject::MigrateToMap+0x856 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13932d9 v8::internal::LookupIterator::ApplyTransitionToDataProperty+0x179 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13abf57 v8::internal::Object::TransitionAndWriteDataProperty+0x47 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13c5a8b v8::internal::Object::AddDataProperty+0x21b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         132db50 v8::internal::JSObject::DefineOwnPropertyIgnoreAttributes+0x350 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         15086e4 v8::internal::Runtime_DefineKeyedOwnPropertyInLiteral+0x1b4 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1913ef6 Builtins_CEntry_Return1_ArgvOnStack_NoBuiltinExit+0x36 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f260f0fc659 [unknown] (/tmp/perf-18326.map)
+	    7f260f125de8 [unknown] (/tmp/perf-18326.map)
+	    7f260f12776e [unknown] (/tmp/perf-18326.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.794242:     967731 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.794491:     965464 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.794741:     965470 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.794989:     966157 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404b83 x86_pmu_disable_all+0xd3 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.795240:     966342 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.795489:     968565 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+cpptools-srv 23248 [002] 3607276.795543:     124879 cycles: 
+	    7fc6b7e34df3 __clock_gettime+0x0 (/home/nick/.vscode-server/extensions/ms-vscode.cpptools-1.22.11-linux-x64/bin/libc.so)
+	          66fadf main+0x12f (/home/nick/.vscode-server/extensions/ms-vscode.cpptools-1.22.11-linux-x64/bin/cpptools-srv)
+	    7fc6b7dfbd55 libc_start_main_stage2+0x2c (/home/nick/.vscode-server/extensions/ms-vscode.cpptools-1.22.11-linux-x64/bin/libc.so)
+	          67fbd4 _start_c+0x0 (/home/nick/.vscode-server/extensions/ms-vscode.cpptools-1.22.11-linux-x64/bin/cpptools-srv)
+
+finalobj  1929 [000] 3607276.795740:     967848 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21400 [003] 3607276.795819:     702669 cycles: 
+	         18c2859 Builtins_LoadIC+0xed9 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c4896d783 [unknown] (/tmp/perf-21400.map)
+	    7f1c4848399a [unknown] (/tmp/perf-21400.map)
+	    7f1c484d6bcf [unknown] (/tmp/perf-21400.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c3ba63 node::Environment::RunTimers+0x1e3 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         185cac5 uv__run_timers+0x35 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186198a uv_run+0x30a (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [002] 3607276.795892:     124879 cycles: 
+	ffffffffa37a4e8f rb_erase+0x37f ([kernel.kallsyms])
+	ffffffffa34e918c set_next_entity+0x3c ([kernel.kallsyms])
+	ffffffffa34efbd8 pick_next_task_fair+0x98 ([kernel.kallsyms])
+	ffffffffa3bb7c15 __schedule+0x615 ([kernel.kallsyms])
+	ffffffffa3bb8bf9 schedule_preempt_disabled+0x29 ([kernel.kallsyms])
+	ffffffffa35082da cpu_startup_entry+0x18a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+node 21408 [002] 3607276.795921:     124879 cycles: 
+	ffffffffa3678570 __d_lookup_rcu+0x50 ([kernel.kallsyms])
+	ffffffffa36680b3 lookup_fast+0x53 ([kernel.kallsyms])
+	ffffffffa366cafe do_last+0x3de ([kernel.kallsyms])
+	ffffffffa366db6d path_openat+0xcd ([kernel.kallsyms])
+	ffffffffa366f52d do_filp_open+0x4d ([kernel.kallsyms])
+	ffffffffa365abf4 do_sys_open+0x124 ([kernel.kallsyms])
+	ffffffffa365ad0e sys_open+0x1e ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f1c70275efd [unknown] (/usr/lib64/libpthread-2.17.so)
+	         185ba24 worker+0x84 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c7026eea5 start_thread+0xc5 (/usr/lib64/libpthread-2.17.so)
+
+finalobj  1929 [000] 3607276.795988:     968507 cycles: 
+	ffffffffa34a9a1c raise_softirq+0x4c ([kernel.kallsyms])
+	ffffffffa34b3fab update_process_times+0x3b ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21400 [003] 3607276.796031:     649139 cycles: 
+	    7f1c6ff97cc0 epoll_pwait+0x0 (/usr/lib64/libc-2.17.so)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c6febb555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21409 [002] 3607276.796086:     120425 cycles: 
+	ffffffffa37c8b83 __percpu_counter_add+0x13 ([kernel.kallsyms])
+	ffffffffa365ed48 __sb_start_write+0x58 ([kernel.kallsyms])
+	ffffffffc043e2c5 xfs_trans_alloc+0xf5 ([kernel.kallsyms])
+	ffffffffc042de7e xfs_vn_update_time+0x5e ([kernel.kallsyms])
+	ffffffffa367a268 update_time+0x28 ([kernel.kallsyms])
+	ffffffffa367a89a touch_atime+0x10a ([kernel.kallsyms])
+	ffffffffa35ca37c do_generic_file_read.constprop.52+0x34c ([kernel.kallsyms])
+	ffffffffa35caf41 generic_file_aio_read+0x1d1 ([kernel.kallsyms])
+	ffffffffc0422675 xfs_file_buffered_aio_read+0x95 ([kernel.kallsyms])
+	ffffffffc0422cf7 xfs_file_aio_read+0x87 ([kernel.kallsyms])
+	ffffffffa365b1d3 do_sync_read+0x93 ([kernel.kallsyms])
+	ffffffffa365bbef vfs_read+0x9f ([kernel.kallsyms])
+	ffffffffa365ca65 sys_read+0x55 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f1c7027575d [unknown] (/usr/lib64/libpthread-2.17.so)
+	         185ba24 worker+0x84 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f1c7026eea5 start_thread+0xc5 (/usr/lib64/libpthread-2.17.so)
+
+swapper     0 [001] 3607276.796158:     314015 cycles: 
+	ffffffffa350e78c ktime_get+0xc ([kernel.kallsyms])
+	ffffffffa34a9817 irq_enter+0x87 ([kernel.kallsyms])
+	ffffffffa34ddffd scheduler_ipi+0x2d ([kernel.kallsyms])
+	ffffffffa345c61f smp_reschedule_interrupt+0x2f ([kernel.kallsyms])
+	ffffffffa3bc7d72 reschedule_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.796240:     968025 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [003] 3607276.796274:     589452 cycles: 
+	ffffffffa351667a tick_check_broadcast_expired+0x1a ([kernel.kallsyms])
+	ffffffffa3508268 cpu_startup_entry+0x118 ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.796492:     969014 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.796744:     968029 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.796996:     967375 cycles: 
+	ffffffffa3404ab5 x86_pmu_disable_all+0x5 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.797249:     966353 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.797496:     966588 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.797744:     965079 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.797993:     966434 cycles: 
+	ffffffffa34fdf0f cpuacct_charge+0x3f ([kernel.kallsyms])
+	ffffffffa34eab04 update_curr+0x164 ([kernel.kallsyms])
+	ffffffffa34ec275 task_tick_fair+0x2c5 ([kernel.kallsyms])
+	ffffffffa34df0a4 scheduler_tick+0xd4 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.798246:     967598 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.798495:     967462 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.798744:     966307 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.798992:     966945 cycles: 
+	ffffffffa34df006 scheduler_tick+0x36 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.799243:     967618 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.799257:     411171 cycles: 
+	         2133175 v8::base::bits::RoundUpToPowerOfTwo32+0x5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13d296f v8::internal::OrderedHashTable<v8::internal::OrderedHashMap, 2>::Rehash+0x2f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         13d3481 v8::internal::OrderedHashTable<v8::internal::OrderedHashMap, 2>::Shrink+0x31 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         14f1273 v8::internal::Runtime_MapShrink+0x53 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1913ef6 Builtins_CEntry_Return1_ArgvOnStack_NoBuiltinExit+0x36 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18e1424 Builtins_MapPrototypeDelete+0x564 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f260f11f0f5 [unknown] (/tmp/perf-18326.map)
+	    7f260f0730a3 [unknown] (/tmp/perf-18326.map)
+	    7f260f0dfb15 [unknown] (/tmp/perf-18326.map)
+	    7f260f04f23d [unknown] (/tmp/perf-18326.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c3ba63 node::Environment::RunTimers+0x1e3 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         185cac5 uv__run_timers+0x35 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186198a uv_run+0x30a (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.799328:     286306 cycles: 
+	         1880d92 Builtins_Construct+0x12 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f260f099bf0 [unknown] (/tmp/perf-18326.map)
+	    7f260f098f87 [unknown] (/tmp/perf-18326.map)
+	    7f260f09b161 [unknown] (/tmp/perf-18326.map)
+	    7f260f0b17d4 [unknown] (/tmp/perf-18326.map)
+	    7f260f0f10f7 [unknown] (/tmp/perf-18326.map)
+	    7f260f0b17d4 [unknown] (/tmp/perf-18326.map)
+	    7f260f11f675 [unknown] (/tmp/perf-18326.map)
+	    7f260f0730a3 [unknown] (/tmp/perf-18326.map)
+	    7f260f0dfb15 [unknown] (/tmp/perf-18326.map)
+	    7f260f04f23d [unknown] (/tmp/perf-18326.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c3ba63 node::Environment::RunTimers+0x1e3 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         185cac5 uv__run_timers+0x35 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186198a uv_run+0x30a (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.799493:     967678 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18262 [003] 3607276.799532:     602493 cycles: 
+	    7ff6542255cb [unknown] (/tmp/perf-18262.map)
+	    7ff6541de259 [unknown] (/tmp/perf-18262.map)
+	    7ff6542be824 [unknown] (/tmp/perf-18262.map)
+	    7ff65428a36b [unknown] (/tmp/perf-18262.map)
+	    7ff65433082a [unknown] (/tmp/perf-18262.map)
+	    7ff654243337 [unknown] (/tmp/perf-18262.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2be6 node::InternalCallbackScope::Close+0x286 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f9b node::InternalMakeCallback+0x29b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c05f70 node::AsyncWrap::MakeCallback+0x80 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          de8bab node::StreamBase::CallJSOnreadMethod+0xab (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          deb379 node::EmitToJSStreamListener::OnStreamRead+0x289 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df197e node::LibuvStreamWrap::OnUvRead+0x8e (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          df1d6b node::LibuvStreamWrap::ReadStart()::{lambda(uv_stream_s*, long, uv_buf_t const*)#2}::_FUN+0x5b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186d4bb uv__read+0x2eb (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186dc60 uv__stream_io+0xa0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7ff67aa93555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.799748:     967202 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.799996:     967412 cycles: 
+	ffffffffa3470958 native_read_msr_safe+0x8 ([kernel.kallsyms])
+	ffffffffa3404b38 x86_pmu_disable_all+0x88 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [001] 3607276.800008:     286306 cycles: 
+	ffffffffa3bc8a90 call_softirq+0x0 ([kernel.kallsyms])
+	ffffffffa34a9945 irq_exit+0x115 ([kernel.kallsyms])
+	ffffffffa3bca058 smp_apic_timer_interrupt+0x48 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.800246:     965006 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.800499:     966421 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.800607:     351323 cycles: 
+	ffffffffa35fdb1a do_wp_page+0x5a ([kernel.kallsyms])
+	ffffffffa36022da handle_mm_fault+0xb3a ([kernel.kallsyms])
+	ffffffffa3bbf7d3 __do_page_fault+0x213 ([kernel.kallsyms])
+	ffffffffa3bbfb05 do_page_fault+0x35 ([kernel.kallsyms])
+	ffffffffa3bbb7b8 page_fault+0x28 ([kernel.kallsyms])
+	    7f2635bbf1ec __memmove_ssse3+0xfc (/usr/lib64/libc-2.17.so)
+	    7f260f0fdb46 [unknown] (/tmp/perf-18326.map)
+	    7f260f110763 [unknown] (/tmp/perf-18326.map)
+	    7f260f0249f4 [unknown] (/tmp/perf-18326.map)
+	    7f260f11bd5e [unknown] (/tmp/perf-18326.map)
+	    7f260f0a515c [unknown] (/tmp/perf-18326.map)
+	    7f260f1296d5 [unknown] (/tmp/perf-18326.map)
+	    7f260f073292 [unknown] (/tmp/perf-18326.map)
+	    7f260f0dfb15 [unknown] (/tmp/perf-18326.map)
+	    7f260f04f23d [unknown] (/tmp/perf-18326.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c3ba63 node::Environment::RunTimers+0x1e3 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         185cac5 uv__run_timers+0x35 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186198a uv_run+0x30a (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 18326 [001] 3607276.800688:     323554 cycles: 
+	         18c5380 Builtins_LoadICBaseline+0x0 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f260f11071c [unknown] (/tmp/perf-18326.map)
+	    7f260f0249f4 [unknown] (/tmp/perf-18326.map)
+	    7f260f11bd5e [unknown] (/tmp/perf-18326.map)
+	    7f260f0a515c [unknown] (/tmp/perf-18326.map)
+	    7f260f1296d5 [unknown] (/tmp/perf-18326.map)
+	    7f260f073292 [unknown] (/tmp/perf-18326.map)
+	    7f260f0dfb15 [unknown] (/tmp/perf-18326.map)
+	    7f260f04f23d [unknown] (/tmp/perf-18326.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c3ba63 node::Environment::RunTimers+0x1e3 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         185cac5 uv__run_timers+0x35 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         186198a uv_run+0x30a (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f2635a8f555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+tokio-runtime-w 21384 [003] 3607276.800743:     604901 cycles: 
+	    7f3d3ceedf64 [unknown] (/home/nick/.vscode-server/code-f1a4fb101478ce6ec82fe9627c43efbf9e98c813)
+
+finalobj  1929 [000] 3607276.800744:     966210 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.800992:     964952 cycles: 
+	ffffffffa34030a5 x86_pmu_disable+0x5 ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.801245:     967449 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.801493:     967943 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.801743:     966366 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.801993:     967151 cycles: 
+	ffffffffa3bba720 _raw_qspin_lock+0x10 ([kernel.kallsyms])
+	ffffffffa3517630 tick_sched_do_timer+0x40 ([kernel.kallsyms])
+	ffffffffa3517679 tick_sched_timer+0x29 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.802243:     967244 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.802495:     967779 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.802746:     967926 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.802997:     966756 cycles: 
+	ffffffffa34f0a3e trigger_load_balance+0xee ([kernel.kallsyms])
+	ffffffffa34df0e1 scheduler_tick+0x111 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410553 test_high_perfermance+0x32 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [001] 3607276.803003:     299988 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3404b83 x86_pmu_disable_all+0xd3 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.803249:     964020 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.803495:     963411 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.803745:     962598 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.803991:     964341 cycles: 
+	ffffffffa37a7514 timerqueue_del+0x24 ([kernel.kallsyms])
+	ffffffffa34cf5b7 __remove_hrtimer+0x47 ([kernel.kallsyms])
+	ffffffffa34cfaf5 __hrtimer_run_queues+0xe5 ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.804243:     964647 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.804492:     968753 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.804743:     967835 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.804990:     968259 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466b83 native_apic_msr_eoi_write+0x13 ([kernel.kallsyms])
+	ffffffffa3bca04e smp_apic_timer_interrupt+0x3e ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.805245:     967682 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.805493:     968591 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.805750:     966290 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.806000:     966889 cycles: 
+	ffffffffa34a9603 __do_softirq+0x163 ([kernel.kallsyms])
+	ffffffffa3bc8aac call_softirq+0x1c ([kernel.kallsyms])
+	ffffffffa3430825 do_softirq+0x65 ([kernel.kallsyms])
+	ffffffffa34a9945 irq_exit+0x115 ([kernel.kallsyms])
+	ffffffffa3bca058 smp_apic_timer_interrupt+0x48 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.806251:     961806 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.806494:     962014 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.806746:     961493 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.806994:     964749 cycles: 
+	ffffffffa3433be5 update_vsyscall+0x5 ([kernel.kallsyms])
+	ffffffffa350f64b update_wall_time+0x23b ([kernel.kallsyms])
+	ffffffffa35175a7 tick_do_update_jiffies64+0xa7 ([kernel.kallsyms])
+	ffffffffa3517630 tick_sched_do_timer+0x40 ([kernel.kallsyms])
+	ffffffffa3517679 tick_sched_timer+0x29 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.807245:     964021 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.807496:     967778 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.807744:     967105 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.807989:     966894 cycles: 
+	ffffffffa37a442c rb_next+0x3c ([kernel.kallsyms])
+	ffffffffa37a7528 timerqueue_del+0x38 ([kernel.kallsyms])
+	ffffffffa34cf5b7 __remove_hrtimer+0x47 ([kernel.kallsyms])
+	ffffffffa34cfaf5 __hrtimer_run_queues+0xe5 ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.808238:     967862 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.808488:     968760 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.808739:     968907 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.808992:     969166 cycles: 
+	ffffffffa3436c11 read_tsc+0x1 ([kernel.kallsyms])
+	ffffffffa3515139 clockevents_program_event+0x39 ([kernel.kallsyms])
+	ffffffffa3516f33 tick_program_event+0x23 ([kernel.kallsyms])
+	ffffffffa34d00f2 hrtimer_interrupt+0xf2 ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.809241:     966709 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.809489:     965323 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.809737:     965829 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.809986:     966746 cycles: 
+	ffffffffa34fdf0f cpuacct_charge+0x3f ([kernel.kallsyms])
+	ffffffffa34eab04 update_curr+0x164 ([kernel.kallsyms])
+	ffffffffa34ec275 task_tick_fair+0x2c5 ([kernel.kallsyms])
+	ffffffffa34df0a4 scheduler_tick+0xd4 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410553 test_high_perfermance+0x32 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.810237:     967723 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.810486:     968982 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.810735:     968708 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.810984:     968933 cycles: 
+	ffffffffa345fd63 local_apic_timer_interrupt+0x23 ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.811236:     969578 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.811486:     969761 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.811739:     968827 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.811987:     968920 cycles: 
+	ffffffffa3470958 native_read_msr_safe+0x8 ([kernel.kallsyms])
+	ffffffffa3404b38 x86_pmu_disable_all+0x88 ([kernel.kallsyms])
+	ffffffffa3406550 amd_pmu_disable_all+0x20 ([kernel.kallsyms])
+	ffffffffa34030f4 x86_pmu_disable+0x54 ([kernel.kallsyms])
+	ffffffffa35b70ad perf_pmu_disable+0x2d ([kernel.kallsyms])
+	ffffffffa35b8e0b perf_event_task_tick+0xcb ([kernel.kallsyms])
+	ffffffffa34df0b3 scheduler_tick+0xe3 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.812238:     967506 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.812491:     968706 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.812740:     968027 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.812987:     966914 cycles: 
+	ffffffffa37a442c rb_next+0x3c ([kernel.kallsyms])
+	ffffffffa37a7528 timerqueue_del+0x38 ([kernel.kallsyms])
+	ffffffffa34cf5b7 __remove_hrtimer+0x47 ([kernel.kallsyms])
+	ffffffffa34cfaf5 __hrtimer_run_queues+0xe5 ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.813241:     967333 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.813492:     969098 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.813741:     967094 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.813988:     966584 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.814240:     967345 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.814488:     969286 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.814739:     968081 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.814992:     969203 cycles: 
+	ffffffffa34f0afb trigger_load_balance+0x1ab ([kernel.kallsyms])
+	ffffffffa34df0e1 scheduler_tick+0x111 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.815241:     966104 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.815489:     964728 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.815739:     965453 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.815986:     966135 cycles: 
+	ffffffffa3bbfcf1 notifier_call_chain+0x41 ([kernel.kallsyms])
+	ffffffffa34d1a46 raw_notifier_call_chain+0x16 ([kernel.kallsyms])
+	ffffffffa350d9f0 timekeeping_update+0xb0 ([kernel.kallsyms])
+	ffffffffa350f64b update_wall_time+0x23b ([kernel.kallsyms])
+	ffffffffa35175a7 tick_do_update_jiffies64+0xa7 ([kernel.kallsyms])
+	ffffffffa3517630 tick_sched_do_timer+0x40 ([kernel.kallsyms])
+	ffffffffa3517679 tick_sched_timer+0x29 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.816237:     966393 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.816486:     968813 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.816735:     968442 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.816984:     968637 cycles: 
+	ffffffffa3466b71 native_apic_msr_eoi_write+0x1 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.817236:     969385 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.817485:     969409 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.817738:     968557 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.817986:     968742 cycles: 
+	ffffffffa34fdf0f cpuacct_charge+0x3f ([kernel.kallsyms])
+	ffffffffa34eab04 update_curr+0x164 ([kernel.kallsyms])
+	ffffffffa34ec275 task_tick_fair+0x2c5 ([kernel.kallsyms])
+	ffffffffa34df0a4 scheduler_tick+0xd4 ([kernel.kallsyms])
+	ffffffffa34b3fd5 update_process_times+0x65 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.818237:     967738 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.818487:     968579 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.818735:     967992 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.818984:     968216 cycles: 
+	ffffffffa347097a native_write_msr_safe+0xa ([kernel.kallsyms])
+	ffffffffa3466b83 native_apic_msr_eoi_write+0x13 ([kernel.kallsyms])
+	ffffffffa3bca04e smp_apic_timer_interrupt+0x3e ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.819236:     968988 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.819486:     969247 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.819736:     968271 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.819984:     968598 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.820235:     968261 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.820485:     969680 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.820736:     968838 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.820985:     969024 cycles: 
+	ffffffffa35642a0 rcu_check_callbacks+0xe0 ([kernel.kallsyms])
+	ffffffffa34b3fb6 update_process_times+0x46 ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.821237:     968620 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.821487:     968607 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.821736:     968058 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.821983:     968078 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.822236:     968278 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.822485:     969649 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.822734:     968510 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.822983:     968657 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.823235:     969312 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.823485:     969617 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.823737:     968717 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.823985:     968840 cycles: 
+	ffffffffa3bc6280 apic_timer_interrupt+0x0 ([kernel.kallsyms])
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.824236:     967531 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.824486:     968861 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.824734:     968418 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.824983:     968657 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.825237:     969390 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.825486:     969501 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.825734:     967525 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.825983:     967954 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.826235:     968923 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.826485:     969526 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.826736:     968497 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.826985:     968697 cycles: 
+	ffffffffa34e4812 account_user_time+0x32 ([kernel.kallsyms])
+	ffffffffa34e4c52 account_process_tick+0x152 ([kernel.kallsyms])
+	ffffffffa34b3f9c update_process_times+0x2c ([kernel.kallsyms])
+	ffffffffa3517380 tick_sched_handle+0x30 ([kernel.kallsyms])
+	ffffffffa3517689 tick_sched_timer+0x39 ([kernel.kallsyms])
+	ffffffffa34cfb1e __hrtimer_run_queues+0x10e ([kernel.kallsyms])
+	ffffffffa34d00af hrtimer_interrupt+0xaf ([kernel.kallsyms])
+	ffffffffa345fd7b local_apic_timer_interrupt+0x3b ([kernel.kallsyms])
+	ffffffffa3bca053 smp_apic_timer_interrupt+0x43 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	          410553 test_high_perfermance+0x32 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+swapper     0 [003] 3607276.827048:     604901 cycles: 
+	ffffffffa3672555 pollwake+0x5 ([kernel.kallsyms])
+	ffffffffa34d8f23 __wake_up_common_lock+0x83 ([kernel.kallsyms])
+	ffffffffa34d8f9d __wake_up_sync_key+0x1d ([kernel.kallsyms])
+	ffffffffa3a6289d sock_def_readable+0x3d ([kernel.kallsyms])
+	ffffffffa3ae7fa7 tcp_rcv_established+0x447 ([kernel.kallsyms])
+	ffffffffa3af30f2 tcp_v4_do_rcv+0x112 ([kernel.kallsyms])
+	ffffffffa3af498c tcp_v4_rcv+0x7dc ([kernel.kallsyms])
+	ffffffffa3acc34d ip_local_deliver_finish+0xbd ([kernel.kallsyms])
+	ffffffffa3acc660 ip_local_deliver+0x60 ([kernel.kallsyms])
+	ffffffffa3acbfa0 ip_rcv_finish+0x90 ([kernel.kallsyms])
+	ffffffffa3acc9a0 ip_rcv+0x2c0 ([kernel.kallsyms])
+	ffffffffa3a7f669 __netif_receive_skb_core+0x739 ([kernel.kallsyms])
+	ffffffffa3a7f968 __netif_receive_skb+0x18 ([kernel.kallsyms])
+	ffffffffa3a8097e process_backlog+0xae ([kernel.kallsyms])
+	ffffffffa3a80037 net_rx_action+0x277 ([kernel.kallsyms])
+	ffffffffa34a9595 __do_softirq+0xf5 ([kernel.kallsyms])
+	ffffffffa3bc8aac call_softirq+0x1c ([kernel.kallsyms])
+	ffffffffa3430825 do_softirq+0x65 ([kernel.kallsyms])
+	ffffffffa34a9945 irq_exit+0x115 ([kernel.kallsyms])
+	ffffffffa3bca058 smp_apic_timer_interrupt+0x48 ([kernel.kallsyms])
+	ffffffffa3bc63f2 apic_timer_interrupt+0x172 ([kernel.kallsyms])
+	ffffffffa3bb9bde __cpuidle_text_start+0x1e ([kernel.kallsyms])
+	ffffffffa3439570 arch_cpu_idle+0x20 ([kernel.kallsyms])
+	ffffffffa350829a cpu_startup_entry+0x14a ([kernel.kallsyms])
+	ffffffffa345d6e7 start_secondary+0x1f7 ([kernel.kallsyms])
+	ffffffffa34000d5 start_cpu+0x5 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.827236:     968167 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.827486:     968471 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.827736:     967841 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.827984:     968167 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.828235:     967845 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.828487:     969183 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.828738:     968571 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.828985:     967739 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.829235:     967374 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.829484:     969143 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.829734:     969207 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.829983:     969734 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.830236:     969272 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.830486:     969125 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.830734:     967892 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.830983:     967941 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.831234:     968836 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.831484:     969224 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.831734:     968473 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.831985:     968717 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.832234:     968883 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.832484:     969051 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.832734:     969212 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.832983:     969451 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.833236:     969071 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.833485:     969065 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.833734:     967913 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.833983:     968118 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.834234:     968826 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.834484:     969223 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.834733:     968477 cycles: 
+	          410553 test_high_perfermance+0x32 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21411 [001] 3607276.834863:     359705 cycles: 
+	ffffffffa36ac45b ep_send_events_proc+0x10b ([kernel.kallsyms])
+	ffffffffa36acbfa ep_scan_ready_list.isra.7+0x9a ([kernel.kallsyms])
+	ffffffffa36acea3 ep_poll+0x123 ([kernel.kallsyms])
+	ffffffffa36ae4ad sys_epoll_wait+0xdd ([kernel.kallsyms])
+	ffffffffa36ae5f5 sys_epoll_pwait+0x115 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f33cd5aed47 epoll_pwait+0x87 (/usr/lib64/libc-2.17.so)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f33cd4d2555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21411 [001] 3607276.834941:     318477 cycles: 
+	         1957888 Builtins_CreateEmptyArrayLiteral+0x8 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f33a67fa1b7 [unknown] (/tmp/perf-21411.map)
+	    7f33a67fb322 [unknown] (/tmp/perf-21411.map)
+	         18840dc Builtins_JSEntryTrampoline+0x5c (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1883e03 Builtins_JSEntry+0x83 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1069e86 v8::internal::(anonymous namespace)::Invoke+0x136 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         106af8f v8::internal::Execution::Call+0x5f (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          f3082c v8::Function::Call+0xfc (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf2f8b node::InternalMakeCallback+0x28b (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf30be node::MakeCallback+0xae (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c9c25f napi_make_callback+0x3ef (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f33cc2741b3 Watcher::fireCallbacks+0x213 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node_modules/@parcel/watcher/build/Release/watcher.node)
+	         1860af3 uv__async_io.part.3+0x103 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         1876434 uv__io_poll+0x504 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f33cd4d2555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.834982:     968507 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+node 21411 [001] 3607276.835026:     318477 cycles: 
+	ffffffffa36b03e5 eventfd_poll+0x5 ([kernel.kallsyms])
+	ffffffffa36acbfa ep_scan_ready_list.isra.7+0x9a ([kernel.kallsyms])
+	ffffffffa36acea3 ep_poll+0x123 ([kernel.kallsyms])
+	ffffffffa36ae4ad sys_epoll_wait+0xdd ([kernel.kallsyms])
+	ffffffffa36ae5f5 sys_epoll_pwait+0x115 ([kernel.kallsyms])
+	ffffffffa3bc539a system_call_fastpath+0x25 ([kernel.kallsyms])
+	    7f33cd5aed47 epoll_pwait+0x87 (/usr/lib64/libc-2.17.so)
+	         18617b7 uv_run+0x137 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          bf3a7d node::SpinEventLoopInternal+0x14d (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2ab44 node::NodeMainInstance::Run+0x94 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          d2b8a5 node::NodeMainInstance::Run+0xc5 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	          c95b54 node::Start+0x704 (/home/nick/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/node)
+	    7f33cd4d2555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.835233:     969309 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.835483:     969371 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.835736:     968884 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.835984:     969050 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+xfsaild/dm-5   876 [003] 3607276.836021:     481885 cycles: 
+	ffffffffc044f082 xfsaild+0x212 ([kernel.kallsyms])
+	ffffffffa34cb621 kthread+0xd1 ([kernel.kallsyms])
+	ffffffffa3bc51f7 ret_from_fork_nospec_end+0x0 ([kernel.kallsyms])
+
+finalobj  1929 [000] 3607276.836235:     967542 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.836485:     968948 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.836733:     968337 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.836982:     968547 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.837234:     969226 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.837484:     969244 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.837732:     968440 cycles: 
+	          41054f test_high_perfermance+0x2e (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.837982:     968679 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.838233:     969260 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.838483:     969335 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.838734:     968815 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.838983:     969074 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.839235:     968636 cycles: 
+	          410540 test_high_perfermance+0x1f (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.839484:     969001 cycles: 
+	          410542 test_high_perfermance+0x21 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.839734:     968116 cycles: 
+	          410553 test_high_perfermance+0x32 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.839986:     968408 cycles: 
+	          410539 test_high_perfermance+0x18 (/home/nick/code/cpp_prac/out/finalobj)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.840235:     968569 cycles: 
+	    7fbd36fce970 std::ostream::flush+0x0 (/usr/local/gcc10/lib64/libstdc++.so.6.0.28)
+	          410fd7 main+0x22 (/home/nick/code/cpp_prac/out/finalobj)
+	    7fbd365e6555 __libc_start_main+0xf5 (/usr/lib64/libc-2.17.so)
+
+finalobj  1929 [000] 3607276.840486:     968688 cycles: 
+	ffffffffa35c8619 __find_get_page+0x39 ([kernel.kallsyms])
+	ffffffffa35cbba4 filemap_fault+0x74 ([kernel.kallsyms])
+	ffffffffc0421ffe __xfs_filemap_fault+0x7e ([kernel.kallsyms])
+	ffffffffc042220c xfs_filemap_fault+0x2c ([kernel.kallsyms])
+	ffffffffa35fa21a __do_fault.isra.61+0x8a ([kernel.kallsyms])
+	ffffffffa35fa7cc do_read_fault.isra.63+0x4c ([kernel.kallsyms])
+	ffffffffa36021d3 handle_mm_fault+0xa33 ([kernel.kallsyms])
+	ffffffffa3bbf7d3 __do_page_fault+0x213 ([kernel.kallsyms])
+	ffffffffa3bbfb05 do_page_fault+0x35 ([kernel.kallsyms])
+	ffffffffa3bbb7b8 page_fault+0x28 ([kernel.kallsyms])
+	    7fbd3667c396 __tzfile_compute+0x416 (/usr/lib64/libc-2.17.so)
+	    7fbd36632743 _IO_fflush+0x93 (/usr/lib64/libc-2.17.so)
+	               0 [unknown] ([unknown])
+
