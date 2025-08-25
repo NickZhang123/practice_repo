@@ -6,10 +6,10 @@ Window {
     visible: true
     title: qsTr("qml test")
 
-    Column {
-        Test1 {}
-        Test2 {}
-    }
+    // Column {
+    //     Test1 {}
+    //     Test2 {}
+    // }
 
-
+    Layout {}
 }
