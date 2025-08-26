@@ -11,5 +11,7 @@ Window {
     //     Test2 {}
     // }
 
-    Layout {}
+    // Layout {}
+
+    ListViewTest {}
 }
