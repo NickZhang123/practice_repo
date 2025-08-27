@@ -1,3 +1,0 @@
-"D:\Program Files\cmake-3.16.0-rc2-win64-x64\bin\cmake.exe" -E remove -f CMakeFiles\apppractice_new.dir/objects.a
-D:\QT\QT6\Tools\mingw1310_64\x86_64-w64-mingw32\bin\ar.exe cr CMakeFiles\apppractice_new.dir/objects.a @CMakeFiles\apppractice_new.dir\objects1.rsp
-D:\QT\QT6\Tools\mingw1310_64\bin\g++.exe -DQT_QML_DEBUG -g  -mwindows -Wl,--whole-archive CMakeFiles\apppractice_new.dir/objects.a -Wl,--no-whole-archive  -o apppractice_new.exe -Wl,--out-implib,libapppractice_new.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\apppractice_new.dir\linklibs.rsp

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/practice_new">
-    <file alias="qmldir">E:/02_code/qt_repo/practice_new/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/practice_new/qmldir</file>
-  </qresource>
-</RCC>
-
