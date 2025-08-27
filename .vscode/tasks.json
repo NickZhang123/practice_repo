@@ -1,0 +1,72 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "01-01-qt程序-CMake构建",
+            "command": "cmake.exe",
+            "args": [
+                "-G",
+                "MinGW Makefiles",
+                "-DCMAKE_BUILD_TYPE=Debug",
+                ".."
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/qt_repo/practice_new/build"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "使用MinGW Makefiles生成器进行CMake构建"
+        },
+        {
+            "type": "shell",
+            "label": "01-03-qt程序-CMake-clean",
+            "command": "rm -r ./*",
+            "options": {
+                "cwd": "${workspaceFolder}/qt_repo/practice_new/build"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "使用MinGW Makefiles生成器进行CMake构建"
+        },
+        {
+            "type": "shell",
+            "label": "01-02-qt程序-cmake编译",
+            "command": "cmake.exe",
+            "args": [
+                "--build",
+                "."
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/qt_repo/practice_new/build"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "cmake编译"
+        },
+        {
+            "type": "shell",
+            "label": "01-04-qt程序-运行",
+            "command": "./practice_new.exe",
+            "options": {
+                "cwd": "${workspaceFolder}/qt_repo/practice_new/z-out/bin",
+                "env": {
+                    "PATH": "D:/QT/QT6/6.8.3/mingw_64/bin;${env:PATH}"              // 重要：添加Qt的bin目录到PATH前
+                }
+            },
+            "problemMatcher": [],
+            "group": "build",
+            "detail": "运行 Qt 程序",
+            "dependsOn": "01-02-qt程序-cmake编译"                                   // 依赖于编译任务
+        }
+    ]
+}
